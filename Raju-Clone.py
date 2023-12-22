@@ -29,15 +29,11 @@ print('\033[95;1m[\x1b[38;5;50m+\033[95;1m] \x1b[38;5;50mCHECKING UPDATE...? ')
 os.system("espeak -a 300 \"Checking,Update,\"")
 time.sleep(2)
 #os.system('clear')
-print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 1.0...! ')
-os.system("espeak -a 300 \"UPDATE VERSION 1.0,\"")
+print('\033[91;1m[\x1b[31;5;50m+\033[91;1m] \x1b[31;5;50mUPDATE VERSHON 2.0...! ')
+os.system("espeak -a 300 \"UPDATE VERSION 2.0,\"")
 time.sleep(2)
 #os.system('clear')
-print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
-os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
-time.sleep(2)
-os.system(f'xdg-open https://youtube.com/@Technical_Raju_Ji?si=1YqByK9vQO3UyXnb')
-os.system(f'xdg-open https://youtube.com/@Technical_Raju_Ji?si=1YqByK9vQO3UyXnb')
+
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-ALONE ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
