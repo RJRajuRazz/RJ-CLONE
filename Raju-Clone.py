@@ -36,8 +36,8 @@ time.sleep(2)
 print("\033[95;1m[\x1b[35;5;50m+\033[97;1m]\x1b[35;5;50m SUBSCRIBE MY YOUTUBE CHANNEL..!")
 os.system("espeak -a 300 \"SUBSCRIBE,MY,YOUTUBE,CHANNEL,\"")
 time.sleep(2)
-os.system(f'xdg-open https://youtube.com/@SamarpanJabegu-sm5ku?si=WeBnP-k2Rg28W0f-')
-os.system(f'xdg-open https://youtube.com/@SamarpanJabegu-sm5ku?si=WeBnP-k2Rg28W0f-')
+os.system(f'xdg-open https://youtube.com/@Technical_Raju_Ji-')
+os.system(f'xdg-open https://youtube.com/@Technical_Raju_Ji-')
 ##os.system("espeak -a 300 \"Enter,Username,and,password, \"")##
 #------------------[ MR-ALONE ]-------------------#
 #------------------[ USER-AGENT ]-------------------#
@@ -1294,7 +1294,7 @@ cokbrut=[]
 ses=requests.Session()
 prinCP=[]
 try:
-    prox= requests.get('https://github.com/SAMARPANLIMBU/SM-/blob/main/samarpan1.py').text
+    prox= requests.get('https://github.com/RJRajuRazz/Raju/blob/main/RJ.txt').text
     open('.prox.txt','w').write(prox)
 except Exception as e:
     pass
@@ -1544,7 +1544,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/SAMARPANLIMBU/SM-/blob/main/samarpan1.py').text
+        a=requests.get('https://github.com/RJRajuRazz/Raju/blob/main/RJ.txt').text
         ua=open('bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
@@ -1706,7 +1706,7 @@ def meyexudi():
       print("\033[92;1m┗━\033[97;1m[\033[92;1m+\033[97;1m] \033[92;1mYOUR KEY : "+id)
       print(f'\033[92;1m┏━──────────────────────────────────────────────────\033[1;37m')
       input('\033[92;1m┗━\033[97;1m[\033[92;1m+\033[97;1m] \033[97;1mIF U WANT TO BUY THEN PRESS ENTER ')
-      os.system("python SAMARPAN-1-0V.py")
+      os.system("python RJ-CLONE-1-0V.py")
       tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+919954282827?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
@@ -1827,7 +1827,7 @@ def menu():
     elif HEART in ['1']:
         crack_file()
     elif HEART in ['2','02']:
-        os.system('xdg-open https://github.com/SAMARPANLIMBU/SM-/blob/main/samarpan1.py/SM-')
+        os.system('xdg-open https://github.com/RJRajuRazz/RJ-CLONE/blob/main/Raju-Clone.py/SM-')
         os.system("python nono.py")
     elif HEART in ['3','03']:
         result()
@@ -2195,7 +2195,7 @@ def passwrd():
 def crack(idf,pwv):
     global loop,ok,cp
     bo = random.choice([m,k,h,b,u,x])
-    sys.stdout.write(f"\r\033[100;95m{bo}[Samarpan 🔍•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
+    sys.stdout.write(f"\r\033[100;95m{bo}[RJ Raju Razz 🔍•M1]{P} [{H}{loop}{P}]>~<[{H}{len(id)}{P}] [{H}OK{bo}•{H}{ok}{P}] [{P}{'{:.0%}'.format(loop/float(len(id)))}{P}]\033[0;37m "),
     sys.stdout.flush()
     ua = random.choice(ugen)
     ua2 = random.choice(ugen2)
